@@ -4,7 +4,7 @@
 import boto3
 
 c = boto3.client('s3')
-r = c.list_objects(Bucket='bucketName')
+r = c.list_objects(Bucket='<bucketName>')
 
 for i in range(len(r['Contents'])):
     print(r['Contents'][i]['Key'])
