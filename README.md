@@ -1,6 +1,7 @@
-# Python examples using boto
+# Python examples using boto3
 
-Requirements
-  * Python
-  * boto
-  * AWS CLI
+Requirements:
+ * A valid Amazon Web Services (AWS) account
+ * Python
+ * boto
+ * AWS CLI
