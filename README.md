@@ -9,5 +9,4 @@
 ## Useful:
  * AWS CLI
 
-## Credentials Notes
-http://boto3.readthedocs.io/en/latest/guide/configuration.html
+[Setting Up Credentials](http://boto3.readthedocs.io/en/latest/guide/configuration.html)
