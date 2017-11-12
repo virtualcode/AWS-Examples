@@ -11,7 +11,7 @@
 
 [Setting Up Credentials](http://boto3.readthedocs.io/en/latest/guide/configuration.html)
 
-###There are three types of python SDK/API access to AWS:
+### There are three types of python SDK/API access to AWS:
  * Botocore: Boto 3 is built atop of a library called Botocore, which is shared by the AWS CLI. Botocore provides the low level clients, session, and credential & configuration data. Boto 3 builds on top of Botocore by providing its own session, resources and collections.
 
  * Clients: low level service connections
