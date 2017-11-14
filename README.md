@@ -1,5 +1,7 @@
 # Python examples using boto3
 
+[aws-shell](https://github.com/awslabs/aws-shell) Example of a python text based program.
+
 ## Requirements:
  * A valid Amazon Web Services (AWS) account
  * Python
