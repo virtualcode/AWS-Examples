@@ -1,0 +1,7 @@
+# Files not managed by git yet
+listQueues.py
+accessbucket.py
+launchEC2Instance.py
+
+# Trash files are in here
+old
